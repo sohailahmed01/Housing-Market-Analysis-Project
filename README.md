@@ -75,7 +75,8 @@ RETURN IF(PrevYearSales <> 0, (CurrYearSales - PrevYearSales) / PrevYearSales, B
 
 ### 📸 Screenshot – House Market Overview
 
-*(Insert the Page 1 screenshot here — re-upload the image to this repo so the link doesn't expire, e.g. `![Page 1 Screenshot](images/page1.png)`)*
+<img width="4000" height="2282" alt="focus_01_page-0001" src="https://github.com/user-attachments/assets/c8bcb816-5d4d-46bd-918f-e484788de4e2" />
+
 
 ---
 
@@ -119,7 +120,8 @@ Total YTD Sales =
 
 ### 📸 Screenshot – Sales Performance
 
-*(Insert the Page 2 screenshot here — re-upload the image to this repo, e.g. `![Page 2 Screenshot](images/page2.png)`)*
+<img width="4000" height="2282" alt="focus_02_page-0001" src="https://github.com/user-attachments/assets/85d24e80-53d3-49fe-9f76-3509d12d98fd" />
+
 
 ---
 
@@ -146,7 +148,8 @@ Average SQM Price =
 
 ### 📸 Screenshot – House Type Insights
 
-*(Insert the Page 3 screenshot here — re-upload the image to this repo, e.g. `![Page 3 Screenshot](images/page3.png)`)*
+<img width="8000" height="4564" alt="focus_03_page-0001" src="https://github.com/user-attachments/assets/dae67b43-9891-4341-ac10-c8a8f3897dfa" />
+
 
 ---
 
