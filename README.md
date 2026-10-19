@@ -3,6 +3,10 @@
 This Power BI report delivers deep insights into the **Danish housing market**, analyzing sales trends, pricing metrics, property types, and regional dynamics using ~100,000 rows of housing data from **Google BigQuery**.
 
 ---
+## Problem Statement 
+“The project was called the Housing Market Analysis Dashboard. The main objective was to analyse the Danish housing market using housing transaction data. The goal was to create a centralised, interactive report that helps users understand housing sales activity, track price movements over time, compare regional performance, and explore how property types and characteristics relate to housing prices.
+
+The analysis focused on questions such as how median purchase prices and sales activity change over time, which regions have higher sales values and prices per square metre, how asking prices compare with actual purchase prices, and how pricing differs across property types and sales categories.”
 
 ## 📁 Dataset Overview
 
